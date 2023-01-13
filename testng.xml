@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+    <suite name="ForeignPlayerTests">
+
+        <test name="validate foreign players">
+            <classes>
+                <class name="org.testVagrant.tests.ForeignPlayersTest"/>
+                <class name="org.testVagrant.tests.VerifyWicketKeeperTest"/>
+            </classes>
+        </test>
+
+    </suite>

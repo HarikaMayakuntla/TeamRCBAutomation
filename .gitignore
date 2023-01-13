@@ -1,6 +1,10 @@
-.idea/*
-.idea/compiler.xml
-.idea/encodings.xml
-.idea/workspace.xml
-.idea/jarRepositories.xml
-target/*
+    .idea/*
+    .idea/compiler.xml
+    .idea/encodings.xml
+    .idea/workspace.xml
+    .idea/jarRepositories.xml
+    target/
+    target/classes/
+    target/test-classes/
+    target/generated-sources
+    target/generated-test-sources

@@ -1,13 +1,13 @@
-package org.testVagrant.tests;
+    package org.testVagrant.tests;
 
-import io.restassured.path.json.JsonPath;
-import org.testng.Assert;
-import org.testng.annotations.Test;
+    import io.restassured.path.json.JsonPath;
+    import org.testng.Assert;
+    import org.testng.annotations.Test;
 
-import java.io.File;
-import java.util.List;
+    import java.io.File;
+    import java.util.List;
 
-public class VerifyWicketKeeperTest {
+    public class VerifyWicketKeeperTest {
     int count;
 
     @Test
